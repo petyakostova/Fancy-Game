@@ -1,4 +1,4 @@
-##Just Shoot Me
+## Just Shoot Me
 Teamwork in JavaScript UI and DOM Course in Telerik Academy 2015-2016 Season.
  
 **Just Shoot Me** is a simple shooting game. 
